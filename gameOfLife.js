@@ -184,7 +184,6 @@ function animate() {
         iteration = 0
     }
 }
-
 init()
 setAlive(grid)
 startAnimation(60)
